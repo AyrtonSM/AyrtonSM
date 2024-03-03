@@ -27,6 +27,7 @@ Check out some of my notable projects:
 2. [ML Backend Predicion Server](https://github.com/AyrtonSM/abc-id-api): Backend resposible for sending the details of the image to LUNA and based on that information she'll predict whether the person has a breast cance
 3. [Data Science Repos](https://github.com/AyrtonSM/data_science_repositories): General data science studies.
 4. [NPL Text Prediction Demo](https://github.com/AyrtonSM/data_science_repositories): General data science studies.
+5. [Healthie AI](https://github.com/AyrtonSM/healthie-ai-api): This is an ongoing API for handling requests on if according to a person daily routine, an AI will determine the level of health for the person, this is still under design.
 
 ## 📫 Get in Touch
 
