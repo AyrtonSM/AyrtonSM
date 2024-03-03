@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with expertise 
 Here are some of the technologies and tools I work with:
 
 - Programming Languages: Java, Python, PHP, JavaScript, C++ 
-- Cloud Platforms: Azure
+- Cloud Platforms: Azure (Azure DataFactory, Databricks), AWS (EC2, SNS, S3)
 - Database Systems: MySQL, SQL Server
 - Frameworks & Libraries: TensorFlow, Spring, Flask
 - Tools & Utilities: Git, Docker, Jenkins, Jupyter Notebook
