@@ -1,4 +1,4 @@
-# Hi there, I'm Ayrton Sousa! 👋
+# Hi there, I'm Ayrton Marinho! 👋
 [![Ayrton's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonSM&show_icons=true&theme=dark)](https://github.com/AyrtonSM/AyrtonSM)
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer with expertise in developing innovative solutions using various technologies. Here's a bit about me:
