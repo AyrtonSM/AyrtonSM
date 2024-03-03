@@ -1,4 +1,4 @@
-# Hi there, I'm Ayrton Marinho! 👋
+# Hi there, I'm Ayrton Marinho! 🇧🇷 👋
 [![Ayrton's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonSM&show_icons=true&theme=dark)](https://github.com/AyrtonSM/AyrtonSM)
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer with expertise in developing innovative solutions using various technologies. Here's a bit about me:
@@ -35,6 +35,6 @@ Feel free to reach out to me via [email](mailto:ayrtonitsolution@gmail.com) or c
 
 ## 🌟 Fun Fact
 
-I'm a black belt in karate and I'm addicted to the band EPICA
+I'm a black belt in karate and I'm addicted to listening to  [EPICA](https://www.youtube.com/channel/UC82lIgiaLTBkzhEebHWoazA)🇳🇱
 
 Thanks for stopping by! 😊
