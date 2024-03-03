@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with expertise 
 - 💻 Over 5 years of experience in Software Engineering.
 - 🚀 Proficient in backend development, data engineering, and artificial intelligence modeling.
 - 🌱 Continuously learning and exploring new tools and techniques to enhance my skills.
-- 🌍 Fluent in Portuguese, advanced in English, and currently learning Japanese and German.
+- 🌍 Fluent in Portuguese, fluent in English, and currently learning Japanese and German.
 
 ## 🔧 Technologies & Tools
 
